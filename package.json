@@ -1,0 +1,39 @@
+{
+  "name": "onedionys-client-side-routing-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (Client-Side Routing Utilities) - A utility to handle client-side routing, allowing navigation between pages without the need to reload the entire page.",
+  "main": "src/index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-client-side-routing-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "client-side-routing-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-client-side-routing-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-client-side-routing-utilities#readme",
+  "devDependencies": {
+    "@types/chai": "^4.3.12",
+    "@types/mocha": "^10.0.6",
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "typescript": "^5.4.2"
+  }
+}
