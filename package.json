@@ -1,6 +1,6 @@
 {
   "name": "onedionys-client-side-routing-utilities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Client-Side Routing Utilities) - A utility to handle client-side routing, allowing navigation between pages without the need to reload the entire page.",
   "main": "src/index.ts",
   "directories": {
